@@ -48,9 +48,9 @@ In the example above, 10000000000 is equal to 1 STINK token.
 ```
 0x1f0803010100511f03000103009cc8ecbd7d7a475a835f0956e70eb336a847d7600308000002043205011f00c2d4010000000204320556910200001300902df44057979f0000000000
 ```
-
 ![enter image description here](https://i.imgur.com/d6cHVwx.png)
-4. Switch from Decode -> Submission
+
+4. Switch from Decode -> Submission  
 5. Modify the amount you want to send
 ![enter image description here](https://i.imgur.com/0rinCY2.png)
 In the example above, 10000000000 is equal to 1 STINK token.
